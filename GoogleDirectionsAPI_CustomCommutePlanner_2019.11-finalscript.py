@@ -6,7 +6,7 @@
 
 # REQUIRES      : GOOGLE DIRECTIONS API KEY
 # HOW IT WORKS  : RUN THE CODE, A CUSTOM GUI WILL POP UP, FILL IN "START LOCATION", "END LOCATION", "ARRIVAL TIME", "API KEY", AND "OUTPUT FILE NAME"
-# DOCUMENTATION : https://github.com/SharonWHLing/custom_commute_planner/blob/main/GoogleDirectionsAPI_CustomCommutePlanner_2019.11-documentation.pdf
+# DOCUMENTATION : https://github.com/SharonWHLing/custom_commute_planner/blob/main/GoogleDirectionsAPI_CustomCommutePlanner_2019.11-pdf.pdf
 #############################################################
 
 # Step 1: import all necessary Python packages
