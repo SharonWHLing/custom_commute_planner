@@ -7,4 +7,4 @@ See the attached Python code, as well as the PDF documentation which contains th
 
 Code written in Python 2.7 and relies on Google Directions API for results. 
 
-NOTE: As of Feb 2021, the code will not print results properly due to changes in the JSON output. Update TBD. 
+NOTE: As of Feb 2021, the code will not print results properly due to changes in the JSON output. However, the custom GUI works as intended. Update TBD. 
