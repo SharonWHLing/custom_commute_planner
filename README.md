@@ -1,5 +1,5 @@
 # custom_commute_planner
-Python 2.7 script for a beta version of a transit-based trip planner; incorporates a custom GUI via Tkinter. 
+Demo Python 2.7 script for a beta version of a transit-based trip planner; incorporates a custom GUI via Tkinter. 
 
 This was a demo project for a 2019 Programming for GIS class at the Georgia Institute of Technology.
 
