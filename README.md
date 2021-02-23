@@ -11,7 +11,7 @@ HOW TO USE: Run the Python script. A custom GUI pops up to asks for inputs. Inpu
 
 ![alt text](https://github.com/SharonWHLing/custom_commute_planner/blob/main/custom_commute_planner_GUI.png?raw=true)
 
-RESULTS: Produces a .txt file with details for multiple trip segments - for transit only - from start to end (see attached sample). 
+RESULTS: Produces a .txt file with details for multiple trip segments - using transit only - from start to end (see attached sample). 
 
 ----------------------------------------------------------------
 
