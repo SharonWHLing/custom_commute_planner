@@ -7,7 +7,7 @@ This is a demo project. Beta/personal use so expect some bugs.
 
 REQUIRES: Google Directions API key.
 
-HOW TO USE: Run the Python script. A custom GUI pops up to asks for inputs. Input Google Directions API key, start location, end location, and desired arrival time.
+HOW TO USE: Run the Python script. A custom GUI pops up to asks for inputs. Input Google Directions API key, start location, end location, desired arrival time, and output file name.
 
 RESULTS: Produces a .txt file with details for multiple trip segments from start to end (see attached sample). 
 
