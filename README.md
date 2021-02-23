@@ -7,7 +7,7 @@ This is a demo project. Beta/personal use so expect some bugs.
 
 REQUIRES: Google Directions API key.
 
-HOW TO USE: Run the Python script. A custom GUI pops up to asks for inputs. Input Google Directions API key, start location, end location, desired arrival time, and output file name.
+HOW TO USE: Run the Python script. A custom GUI pops up to asks for inputs. Input Google Directions API key, start address, end address, desired arrival time, and output file name.
 
 ![alt text](https://github.com/SharonWHLing/custom_commute_planner/blob/main/custom_commute_planner_GUI.png?raw=true)
 
