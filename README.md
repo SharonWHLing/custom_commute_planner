@@ -17,4 +17,4 @@ RESULTS: Produces a .txt file with details for multiple trip segments - using tr
 
 NOTE: As of February 2021, the code will not print results properly due to changes in the JSON output. 
 
-However, the custom GUI and API request process works as intended. Update TBD. 
+However, the custom GUI and API request process works as intended. Update TBC. 
