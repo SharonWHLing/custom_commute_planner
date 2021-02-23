@@ -4,6 +4,7 @@ Demo Python 2.7 script for a beta version of a transit-based trip planner with c
 This was a demo project for a 2019 Programming for GIS class at the Georgia Institute of Technology.
 
 Beta/personal use so expect some bugs.
+
 ----------------------------------------------------------------
 
 REQUIRES: Google Directions API key.
