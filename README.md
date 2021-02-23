@@ -1,7 +1,7 @@
 # custom_commute_planner
 Demo Python 2.7 script for a beta version of a transit-based trip planner with custom GUI using Google Directions API. 
 
-This is a demo project. Beta/personal use so expect some bugs.
+This is a demo project made in December 2019. Beta/personal use so expect some bugs.
 
 ----------------------------------------------------------------
 
