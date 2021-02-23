@@ -9,6 +9,8 @@ REQUIRES: Google Directions API key.
 
 HOW TO USE: Run the Python script. A custom GUI pops up to asks for inputs. Input Google Directions API key, start location, end location, desired arrival time, and output file name.
 
+![alt text](https://github.com/SharonWHLing/custom_commute_planner/blob/main/custom_commute_planner_GUI.png?raw=true)
+
 RESULTS: Produces a .txt file with details for multiple trip segments from start to end (see attached sample). 
 
 ----------------------------------------------------------------
